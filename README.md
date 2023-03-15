@@ -1,5 +1,8 @@
 ### Hi I'm YongzaoDan 👋
 
-![Yongzao's GitHub stats](https://github-readme-stats.vercel.app/api?username=crzbulabula&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crzbulabula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crzbulabula&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Yongzao's GitHub stats](https://github-readme-stats.vercel.app/api?username=crzbulabula&show_icons=true&count_private=true)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crzbulabula&repo=iotdb)](https://github.com/anuraghazra/github-readme-stats)
