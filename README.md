@@ -4,6 +4,9 @@
   + [ParadiseTsito](https://www.paradisetsito.love/)
   + [CSDN](https://blog.csdn.net/CRZbulabula?type=blog)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crzbulabula&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crzbulabula&theme=github&utcOffset=+8)
 
