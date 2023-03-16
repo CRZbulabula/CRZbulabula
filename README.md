@@ -23,11 +23,6 @@ Go             0 secs          ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<img
-  src="https://github.com/CRZbulabula/CRZbulabula/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crzbulabula&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crzbulabula&theme=github&utcOffset=+8)
 
