@@ -15,6 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 08 March 2023 - To: 15 March 2023
+
+Total Time: 1 hr 2 mins
+
 Java           53 mins         █████████████████████▒░░░   85.59 %
 Properties     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
 Shell Script   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
