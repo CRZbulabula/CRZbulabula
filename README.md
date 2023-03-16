@@ -13,6 +13,14 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+
+```text
+Java           53 mins         █████████████████████▒░░░   85.59 %
+Properties     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Shell Script   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Go             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 <img
