@@ -1,9 +1,10 @@
-### Hi I'm YongzaoDan 👋
+# Hi I'm YongzaoDan 👋
 
-+ 🖥 **My blog**
+## 🖥 My blog
   + [ParadiseTsito](https://www.paradisetsito.love/)
   + [CSDN](https://blog.csdn.net/CRZbulabula?type=blog)
 
+## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#9340](https://github.com/apache/iotdb/pull/9340) in [apache/iotdb](https://github.com/apache/iotdb)
 2. 🎉 Merged PR [#9334](https://github.com/apache/iotdb/pull/9334) in [apache/iotdb](https://github.com/apache/iotdb)
@@ -12,6 +13,7 @@
 5. 🎉 Merged PR [#9306](https://github.com/apache/iotdb/pull/9306) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
+## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
