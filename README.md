@@ -13,7 +13,7 @@
 5. 🎉 Merged PR [#9306](https://github.com/apache/iotdb/pull/9306) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
-## 📊 Weekly development breakdown
+## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
 ```text
@@ -29,6 +29,7 @@ Go             0 secs          ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+## 🎑 Summary Cards
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crzbulabula&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crzbulabula&theme=github&utcOffset=+8)
 
