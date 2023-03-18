@@ -17,13 +17,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 16 March 2023
+From: 10 March 2023 - To: 17 March 2023
 
-Total Time: 2 hrs 17 mins
+Total Time: 5 hrs 2 mins
 
-Java                    1 hr 34 mins    █████████████████▒░░░░░░░   69.12 %
-Properties              23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
-Other                   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+Java                    2 hrs 43 mins   █████████████▓░░░░░░░░░░░   54.09 %
+Properties              40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+Shell Script            28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+Bash                    28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+XML                     24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Other                   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->
