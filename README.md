@@ -32,10 +32,8 @@ Other                   16 mins         █▒░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## 🎑 Summary Cards
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crzbulabula&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crzbulabula&theme=github&utcOffset=+8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crzbulabula&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crzbulabula&theme=github)
+[![](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crzbulabula&theme=github)
