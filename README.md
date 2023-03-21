@@ -16,6 +16,9 @@
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ```text
 From: 13 March 2023 - To: 20 March 2023
 
