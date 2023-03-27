@@ -16,5 +16,5 @@ jobs:
           GH_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
           SHOW_LINES_OF_CODE: True
           # https://github.com/anmol098/waka-readme-stats/issues/430
-          SHOW_LOC_CHART: False
+          # SHOW_LOC_CHART: False
           
