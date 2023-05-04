@@ -1,7 +1,6 @@
 # 👋 Hi I'm YongzaoDan
 
 ## 🖥 My blogs
-  + [ParadiseTsito](https://www.paradisetsito.love/)
   + [CSDN](https://blog.csdn.net/CRZbulabula?type=blog)
 
 ## ⚡ Recent Activities
