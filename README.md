@@ -1,7 +1,4 @@
-# 👋 Hi I'm YongzaoDan
-
-## 🖥 My blogs
-  + [CSDN](https://blog.csdn.net/CRZbulabula?type=blog)
+# 👋 Hi I'm Yongzao
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
