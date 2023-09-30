@@ -18,7 +18,7 @@
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -26,7 +26,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 96.8 kB Used in GitHub's Storage 
+> 📦 96.6 kB Used in GitHub's Storage 
  > 
 > 🏆 368 Contributions in the Year 2023
  > 
@@ -101,6 +101,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2023 08:07:36 UTC
+ Last Updated on 30/09/2023 16:07:12 UTC
 <!--END_SECTION:waka-->
 
