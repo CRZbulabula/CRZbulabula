@@ -63,19 +63,16 @@ Sunday                   3027 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 52 mins       ███████████████████░░░░░░   74.53 % 
-C++                      55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Achieve                  3 hrs 52 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -95,6 +92,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2024 16:07:32 UTC
+ Last Updated on 14/02/2024 00:33:25 UTC
 <!--END_SECTION:waka-->
 
