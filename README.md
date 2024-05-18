@@ -26,7 +26,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 255.5 kB Used in GitHub's Storage 
+> 📦 255.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,6 +100,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2024 00:34:27 UTC
+ Last Updated on 18/05/2024 08:09:38 UTC
 <!--END_SECTION:waka-->
 
