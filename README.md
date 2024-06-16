@@ -18,6 +18,8 @@
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-655%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.6%20million%20lines%20of%20code-blue)
@@ -61,17 +63,17 @@ Sunday                   3494 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 mins              █████████████████████████   98.83 % 
-ANTLR v4 grammar file    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Java                     14 mins             █████████████████████████   99.77 % 
+ANTLR v4 grammar file    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Intellijidea             2 mins              █████████████████████████   100.00 % 
+Intellijidea             14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-iotdb                    2 mins              █████████████████████████   100.00 % 
+iotdb                    14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -91,6 +93,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 16:10:07 UTC
+ Last Updated on 16/06/2024 08:08:39 UTC
 <!--END_SECTION:waka-->
 
