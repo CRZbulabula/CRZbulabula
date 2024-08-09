@@ -20,15 +20,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 257.2 kB Used in GitHub's Storage 
- > 
-> 🏆 97 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,6 +90,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2024 08:17:36 UTC
+ Last Updated on 09/08/2024 16:15:31 UTC
 <!--END_SECTION:waka-->
 
