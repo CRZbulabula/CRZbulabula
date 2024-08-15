@@ -18,7 +18,7 @@
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -63,16 +63,20 @@ Sunday                   3932 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     35 mins             ██████████████░░░░░░░░░░░   56.20 % 
+Other                    27 mins             ███████████░░░░░░░░░░░░░░   43.58 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            35 mins             ██████████████░░░░░░░░░░░   56.42 % 
+VS Code                  27 mins             ███████████░░░░░░░░░░░░░░   43.58 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+iotdb                    35 mins             ██████████████░░░░░░░░░░░   56.42 % 
+Downloads                27 mins             ███████████░░░░░░░░░░░░░░   43.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -92,6 +96,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2024 16:16:06 UTC
+ Last Updated on 15/08/2024 00:38:55 UTC
 <!--END_SECTION:waka-->
 
