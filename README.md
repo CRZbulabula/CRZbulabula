@@ -28,8 +28,6 @@
 
 > 📦 257.3 kB Used in GitHub's Storage 
  > 
-> 🏆 97 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -96,6 +94,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 16:16:29 UTC
+ Last Updated on 17/08/2024 00:37:36 UTC
 <!--END_SECTION:waka-->
 
