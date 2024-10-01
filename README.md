@@ -18,7 +18,7 @@
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-699%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-699%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -101,6 +101,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2024 08:20:21 UTC
+ Last Updated on 01/10/2024 16:17:53 UTC
 <!--END_SECTION:waka-->
 
