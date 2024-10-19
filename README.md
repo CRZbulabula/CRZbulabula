@@ -18,7 +18,7 @@
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -26,13 +26,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 258.9 kB Used in GitHub's Storage 
+> 📦 259.0 kB Used in GitHub's Storage 
  > 
-> 🏆 116 Contributions in the Year 2024
+> 🏆 117 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -63,16 +63,25 @@ Sunday                   4112 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   53 mins             █████████████████████░░░░   84.12 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  55 mins             ██████████████████████░░░   86.33 % 
+Unknown Editor           6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+IntelliJ IDEA            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vllm                     44 mins             █████████████████░░░░░░░░   69.66 % 
+Large-Time-Series-Model  17 mins             ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+iotdb                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             ██████████████████████░░░   89.79 % 
+Linux                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 ```
 
 **I Mostly Code in C++** 
@@ -92,6 +101,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2024 08:18:53 UTC
+ Last Updated on 19/10/2024 08:16:56 UTC
 <!--END_SECTION:waka-->
 
