@@ -2,11 +2,11 @@
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#376](https://github.com/apache/iotdb-docs/pull/376) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-2. 💪 Opened PR [#376](https://github.com/apache/iotdb-docs/pull/376) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-3. 💪 Opened PR [#375](https://github.com/apache/iotdb-docs/pull/375) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-4. 💪 Opened PR [#13675](https://github.com/apache/iotdb/pull/13675) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#12426](https://github.com/apache/iotdb/pull/12426) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 💪 Opened PR [#9639](https://github.com/vllm-project/vllm/pull/9639) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+2. 💪 Opened PR [#9637](https://github.com/vllm-project/vllm/pull/9637) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+3. 🎉 Merged PR [#376](https://github.com/apache/iotdb-docs/pull/376) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+4. 💪 Opened PR [#376](https://github.com/apache/iotdb-docs/pull/376) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+5. 💪 Opened PR [#375](https://github.com/apache/iotdb-docs/pull/375) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
 <!--END_SECTION:activity-->
 
 ## 🎑 Summary Cards
