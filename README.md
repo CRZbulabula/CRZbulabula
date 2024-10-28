@@ -2,11 +2,11 @@
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9641](https://github.com/vllm-project/vllm/pull/9641) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-2. 💪 Opened PR [#9639](https://github.com/vllm-project/vllm/pull/9639) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-3. 💪 Opened PR [#9637](https://github.com/vllm-project/vllm/pull/9637) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-4. 🎉 Merged PR [#376](https://github.com/apache/iotdb-docs/pull/376) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
-5. 💪 Opened PR [#376](https://github.com/apache/iotdb-docs/pull/376) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
+1. 💪 Opened PR [#9758](https://github.com/vllm-project/vllm/pull/9758) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+2. 💪 Opened PR [#9641](https://github.com/vllm-project/vllm/pull/9641) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+3. 💪 Opened PR [#9639](https://github.com/vllm-project/vllm/pull/9639) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+4. 💪 Opened PR [#9637](https://github.com/vllm-project/vllm/pull/9637) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+5. 🎉 Merged PR [#376](https://github.com/apache/iotdb-docs/pull/376) in [apache/iotdb-docs](https://github.com/apache/iotdb-docs)
 <!--END_SECTION:activity-->
 
 ## 🎑 Summary Cards
