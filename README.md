@@ -2,11 +2,11 @@
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9787](https://github.com/vllm-project/vllm/pull/9787) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-2. 💪 Opened PR [#9758](https://github.com/vllm-project/vllm/pull/9758) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-3. 💪 Opened PR [#9641](https://github.com/vllm-project/vllm/pull/9641) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-4. 💪 Opened PR [#9639](https://github.com/vllm-project/vllm/pull/9639) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
-5. 💪 Opened PR [#9637](https://github.com/vllm-project/vllm/pull/9637) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. 💪 Opened PR [#9876](https://github.com/vllm-project/vllm/pull/9876) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+2. 💪 Opened PR [#9787](https://github.com/vllm-project/vllm/pull/9787) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+3. 💪 Opened PR [#9758](https://github.com/vllm-project/vllm/pull/9758) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+4. 💪 Opened PR [#9641](https://github.com/vllm-project/vllm/pull/9641) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
+5. 💪 Opened PR [#9639](https://github.com/vllm-project/vllm/pull/9639) in [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--END_SECTION:activity-->
 
 ## 🎑 Summary Cards
