@@ -18,7 +18,7 @@
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-849%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,7 +26,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 300.7 kB Used in GitHub's Storage 
+> 📦 300.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 31 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,6 +92,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2025 08:22:27 UTC
+ Last Updated on 18/04/2025 16:18:31 UTC
 <!--END_SECTION:waka-->
 
