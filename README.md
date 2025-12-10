@@ -2,9 +2,9 @@
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16819](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-2. ❌ Merged PR [#16793](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#16793](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+1. ❌ Closed PR [#16875](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+2. ❌ Merged PR [#16819](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 💪 Opened PR [#16819](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 4. ❌ Merged PR [#16767](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 5. 💪 Opened PR [#16767](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
