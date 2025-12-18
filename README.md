@@ -2,11 +2,11 @@
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16922](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-2. ❌ Closed PR [#16902](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-3. ❌ Closed PR [#16907](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-4. ❌ Merged PR [#16911](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#16911](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+1. ❌ Merged PR [#16922](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#16922](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+3. ❌ Closed PR [#16902](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+4. ❌ Closed PR [#16907](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
+5. ❌ Merged PR [#16911](undefined) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 ## 🎑 Summary Cards
