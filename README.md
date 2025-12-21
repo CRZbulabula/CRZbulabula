@@ -1,4 +1,9 @@
 # 👋 Hi I'm Yongzao
+As an outstanding undergrad and master's grad student of the School of Software, Tsinghua University, currently I fully dedicate myself into the thrive of Timecho Ltd.
+
+My software development and research focus on distributed time series database systems, both inference and post-train infrastructures serving for time series foundation models, and load balancing algorithms for time series database clusters.
+
+Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
