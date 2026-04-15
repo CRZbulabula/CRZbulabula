@@ -7,11 +7,11 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17463](https://github.com/apache/iotdb/pull/17463) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 🚀 Published release [Apache IoTDB 2.0.8](https://github.com/apache/iotdb/releases/tag/v2.0.8) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#17463](https://github.com/apache/iotdb/pull/17463) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#17370](https://github.com/apache/iotdb/pull/17370) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 💪 Opened PR [#17370](https://github.com/apache/iotdb/pull/17370) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🎉 Merged PR [#17485](https://github.com/apache/iotdb/pull/17485) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#17485](https://github.com/apache/iotdb/pull/17485) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#17463](https://github.com/apache/iotdb/pull/17463) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🚀 Published release [Apache IoTDB 2.0.8](https://github.com/apache/iotdb/releases/tag/v2.0.8) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 💪 Opened PR [#17463](https://github.com/apache/iotdb/pull/17463) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 ## 🎑 Summary Cards
