@@ -7,11 +7,11 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#791](https://github.com/apache/tsfile/pull/791) in [apache/tsfile](https://github.com/apache/tsfile)
-2. 💪 Opened PR [#791](https://github.com/apache/tsfile/pull/791) in [apache/tsfile](https://github.com/apache/tsfile)
-3. 🎉 Merged PR [#17527](https://github.com/apache/iotdb/pull/17527) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 💪 Opened PR [#17527](https://github.com/apache/iotdb/pull/17527) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#17493](https://github.com/apache/iotdb/pull/17493) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🎉 Merged PR [#17545](https://github.com/apache/iotdb/pull/17545) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#17545](https://github.com/apache/iotdb/pull/17545) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🎉 Merged PR [#791](https://github.com/apache/tsfile/pull/791) in [apache/tsfile](https://github.com/apache/tsfile)
+4. 💪 Opened PR [#791](https://github.com/apache/tsfile/pull/791) in [apache/tsfile](https://github.com/apache/tsfile)
+5. 🎉 Merged PR [#17527](https://github.com/apache/iotdb/pull/17527) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 ## 🎑 Summary Cards
