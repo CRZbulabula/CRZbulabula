@@ -7,11 +7,11 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1474](https://github.com/apache/ratis/pull/1474) in [apache/ratis](https://github.com/apache/ratis)
-2. 🗣 Commented on [#1466](https://github.com/apache/ratis/pull/1466#issuecomment-4571093498) in [apache/ratis](https://github.com/apache/ratis)
-3. 💪 Opened PR [#1475](https://github.com/apache/ratis/pull/1475) in [apache/ratis](https://github.com/apache/ratis)
-4. 💪 Opened PR [#1474](https://github.com/apache/ratis/pull/1474) in [apache/ratis](https://github.com/apache/ratis)
-5. 🗣 Commented on [#1466](https://github.com/apache/ratis/pull/1466#issuecomment-4560798870) in [apache/ratis](https://github.com/apache/ratis)
+1. 🗣 Commented on [#1466](https://github.com/apache/ratis/pull/1466#issuecomment-4585946369) in [apache/ratis](https://github.com/apache/ratis)
+2. 🗣 Commented on [#1475](https://github.com/apache/ratis/pull/1475#issuecomment-4585944423) in [apache/ratis](https://github.com/apache/ratis)
+3. 🗣 Commented on [#1475](https://github.com/apache/ratis/pull/1475#issuecomment-4585721927) in [apache/ratis](https://github.com/apache/ratis)
+4. 🎉 Merged PR [#1474](https://github.com/apache/ratis/pull/1474) in [apache/ratis](https://github.com/apache/ratis)
+5. 🗣 Commented on [#1466](https://github.com/apache/ratis/pull/1466#issuecomment-4571093498) in [apache/ratis](https://github.com/apache/ratis)
 <!--END_SECTION:activity-->
 
 ## 🎑 Summary Cards
