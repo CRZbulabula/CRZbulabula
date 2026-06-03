@@ -7,11 +7,11 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17822](https://github.com/apache/iotdb/pull/17822) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#17821](https://github.com/apache/iotdb/pull/17821) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#1466](https://github.com/apache/ratis/pull/1466) in [apache/ratis](https://github.com/apache/ratis)
-4. 🎉 Merged PR [#1475](https://github.com/apache/ratis/pull/1475) in [apache/ratis](https://github.com/apache/ratis)
-5. 🗣 Commented on [#1466](https://github.com/apache/ratis/pull/1466#issuecomment-4585946369) in [apache/ratis](https://github.com/apache/ratis)
+1. 🎉 Merged PR [#17822](https://github.com/apache/iotdb/pull/17822) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#17822](https://github.com/apache/iotdb/pull/17822) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 💪 Opened PR [#17821](https://github.com/apache/iotdb/pull/17821) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🎉 Merged PR [#1466](https://github.com/apache/ratis/pull/1466) in [apache/ratis](https://github.com/apache/ratis)
+5. 🎉 Merged PR [#1475](https://github.com/apache/ratis/pull/1475) in [apache/ratis](https://github.com/apache/ratis)
 <!--END_SECTION:activity-->
 
 ## 🎑 Summary Cards
