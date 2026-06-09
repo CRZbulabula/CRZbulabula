@@ -7,11 +7,11 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17822](https://github.com/apache/iotdb/pull/17822) in [apache/iotdb](https://github.com/apache/iotdb)
-2. 💪 Opened PR [#17822](https://github.com/apache/iotdb/pull/17822) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 💪 Opened PR [#17821](https://github.com/apache/iotdb/pull/17821) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🎉 Merged PR [#1466](https://github.com/apache/ratis/pull/1466) in [apache/ratis](https://github.com/apache/ratis)
-5. 🎉 Merged PR [#1475](https://github.com/apache/ratis/pull/1475) in [apache/ratis](https://github.com/apache/ratis)
+1. 🗣 Commented on [#17821](https://github.com/apache/iotdb/pull/17821#issuecomment-4658808161) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🎉 Merged PR [#17874](https://github.com/apache/iotdb/pull/17874) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 💪 Opened PR [#17878](https://github.com/apache/iotdb/pull/17878) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 💪 Opened PR [#17874](https://github.com/apache/iotdb/pull/17874) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🗣 Commented on [#17821](https://github.com/apache/iotdb/pull/17821#issuecomment-4656212363) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 ## 🎑 Summary Cards
