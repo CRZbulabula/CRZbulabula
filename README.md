@@ -23,15 +23,17 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C193%20hrs%207%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.77%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 320.4 kB Used in GitHub's Storage 
+> 📦 326.7 kB Used in GitHub's Storage 
  > 
-> 🏆 269 Contributions in the Year 2026
+> 🏆 287 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,9 +45,9 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 ```text
 🌞 Morning                67744 commits       ████████░░░░░░░░░░░░░░░░░   30.31 % 
-🌆 Daytime                75827 commits       ████████░░░░░░░░░░░░░░░░░   33.93 % 
-🌃 Evening                71384 commits       ████████░░░░░░░░░░░░░░░░░   31.94 % 
-🌙 Night                  8545 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+🌆 Daytime                75828 commits       ████████░░░░░░░░░░░░░░░░░   33.92 % 
+🌃 Evening                71394 commits       ████████░░░░░░░░░░░░░░░░░   31.94 % 
+🌙 Night                  8570 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -54,9 +56,9 @@ Monday                   31812 commits       ████░░░░░░░�
 Tuesday                  41148 commits       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
 Wednesday                38508 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
 Thursday                 39479 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Friday                   43295 commits       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Saturday                 11424 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Sunday                   17834 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Friday                   43302 commits       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Saturday                 11449 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Sunday                   17838 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 ```
 
 
@@ -66,27 +68,27 @@ Sunday                   17834 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   30.62 % 
-Python                   12 hrs 21 mins      ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-YAML                     8 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Java                     5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Gettext Catalog          2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Markdown                 13 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+Python                   11 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+YAML                     8 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Java                     5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Bash                     2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-VS Code                  42 hrs 21 mins      ██████████████████████░░░   88.90 % 
-IntelliJ IDEA            3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-PyCharm                  2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+VS Code                  37 hrs 48 mins      █████████████████████░░░░   84.03 % 
+PyCharm                  4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+IntelliJ IDEA            3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       21 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.85 % 
-Train-Timer-S1-zhr-chrono15 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   32.75 % 
-iotdb                    3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-timechodb                2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-tsfile_governance        2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+timer-rest-service       21 hrs 30 mins      ████████████░░░░░░░░░░░░░   47.80 % 
+Train-Timer-S1-zhr-chrono13 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   30.36 % 
+iotdb                    3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+timechodb                2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+tsfile_governance        2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 💻 Operating System: 
-Mac                      47 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      45 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,6 +108,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 18:29:02 UTC
+ Last Updated on 25/07/2026 02:05:42 UTC
 <!--END_SECTION:waka-->
 
