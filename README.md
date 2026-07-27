@@ -23,17 +23,19 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C223%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C123%20hrs%2045%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-484%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.85%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 327.0 kB Used in GitHub's Storage 
  > 
-> 🏆 297 Contributions in the Year 2026
+> 🏆 298 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,21 +46,21 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                67629 commits       ████████░░░░░░░░░░░░░░░░░   30.31 % 
-🌆 Daytime                75669 commits       ████████░░░░░░░░░░░░░░░░░   33.92 % 
-🌃 Evening                71258 commits       ████████░░░░░░░░░░░░░░░░░   31.94 % 
-🌙 Night                  8556 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+🌞 Morning                67744 commits       ████████░░░░░░░░░░░░░░░░░   30.31 % 
+🌆 Daytime                75822 commits       ████████░░░░░░░░░░░░░░░░░   33.92 % 
+🌃 Evening                71386 commits       ████████░░░░░░░░░░░░░░░░░   31.94 % 
+🌙 Night                  8570 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   31749 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Tuesday                  41067 commits       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Wednesday                38436 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Thursday                 39409 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Friday                   43218 commits       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Saturday                 11431 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Sunday                   17802 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Monday                   31804 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Tuesday                  41148 commits       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Wednesday                38508 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Thursday                 39478 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Friday                   43294 commits       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Saturday                 11455 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Sunday                   17835 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 ```
 
 
@@ -91,6 +93,30 @@ tsfile_governance        2 hrs 26 mins       █░░░░░░░░░░�
 Mac                      62 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 62 hrs 23 mins (99.41%)
+
+✍️ 35,658 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 3,319,959,315 Input Tokens, 9,920,921 Output Tokens
+
+💵 $10239.04 Estimated AI Cost This Week
+
+🧠 278 AI Sessions, 1493 AI Prompts
+
+GPT                      36,986 lines        █████████████████████████   99.49 % 
+Vscode-Wakatime          191 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 14,277 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -108,6 +134,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 02:17:34 UTC
+ Last Updated on 27/07/2026 18:48:12 UTC
 <!--END_SECTION:waka-->
 
