@@ -23,7 +23,7 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C206%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C223%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -68,27 +68,27 @@ Sunday                   17802 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs              █████████░░░░░░░░░░░░░░░░   36.92 % 
-Markdown                 14 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   30.06 % 
-Java                     5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Bash                     2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Gettext Catalog          2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Markdown                 21 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   34.97 % 
+Python                   17 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+Bash                     10 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Java                     5 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Gettext Catalog          2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 52 mins      ███████████████████░░░░░░   75.57 % 
-PyCharm                  8 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-IntelliJ IDEA            3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  41 hrs 56 mins      █████████████████░░░░░░░░   66.83 % 
+IntelliJ IDEA            11 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+PyCharm                  9 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       21 hrs 37 mins      ███████████░░░░░░░░░░░░░░   44.32 % 
-Train-Timer-S1-zhr-chrono17 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   35.50 % 
-iotdb                    3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-timechodb                2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-tsfile_governance        2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Train-Timer-S1-zhr-chrono27 hrs 44 mins      ███████████░░░░░░░░░░░░░░   44.21 % 
+timer-rest-service       25 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   40.28 % 
+iotdb                    3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+timechodb                2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+tsfile_governance        2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 💻 Operating System: 
-Mac                      48 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      62 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,6 +108,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 17:27:25 UTC
+ Last Updated on 27/07/2026 02:17:34 UTC
 <!--END_SECTION:waka-->
 
