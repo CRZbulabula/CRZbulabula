@@ -33,7 +33,7 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 **🐱 My GitHub Data** 
 
-> 📦 327.6 kB Used in GitHub's Storage 
+> 📦 327.5 kB Used in GitHub's Storage 
  > 
 > 🏆 318 Contributions in the Year 2026
  > 
@@ -70,49 +70,49 @@ Sunday                   17939 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 27 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   34.32 % 
-Python                   18 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Bash                     9 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-JSON                     8 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Java                     5 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Markdown                 21 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   34.84 % 
+Python                   10 hrs 39 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Bash                     8 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+JSON                     7 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Java                     5 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 
 🔥 Editors: 
-VS Code                  59 hrs 8 mins       ██████████████████░░░░░░░   72.79 % 
-IntelliJ IDEA            14 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-PyCharm                  7 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+VS Code                  44 hrs 58 mins      ██████████████████░░░░░░░   73.51 % 
+IntelliJ IDEA            14 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+PyCharm                  1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🐱‍💻 Projects: 
-Train-Timer-S1-zhr-chrono43 hrs 25 mins      █████████████░░░░░░░░░░░░   53.45 % 
-timer-rest-service       17 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-timechodb                7 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Unknown Project          5 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Downloads                2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Train-Timer-S1-zhr-chrono24 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   39.51 % 
+timer-rest-service       17 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+timechodb                7 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Unknown Project          5 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Downloads                2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 💻 Operating System: 
-Mac                      81 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      61 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 81 hrs 3 mins (99.75%)
+⏱ AI Coding Time: 60 hrs 58 mins (99.67%)
 
-✍️ 28,012 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 20,130 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,813,215,104 Input Tokens, 12,036,567 Output Tokens
+🔤 2,803,579,832 Input Tokens, 8,720,597 Output Tokens
 
-💵 $10200.43 Estimated AI Cost This Week
+💵 $7489.62 Estimated AI Cost This Week
 
-🧠 427 AI Sessions, 2278 AI Prompts
+🧠 280 AI Sessions, 1698 AI Prompts
 
-GPT                      28,668 lines        █████████████████████████   99.64 % 
-Vscode-Wakatime          103 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+GPT                      20,747 lines        █████████████████████████   99.51 % 
+Vscode-Wakatime          103 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 15,573 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 16,834 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -133,6 +133,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 17:33:31 UTC
+ Last Updated on 02/08/2026 10:56:52 UTC
 <!--END_SECTION:waka-->
 
