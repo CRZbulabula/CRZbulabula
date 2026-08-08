@@ -70,51 +70,50 @@ Sunday                   18032 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   19 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   36.51 % 
-Markdown                 16 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   30.99 % 
-JSON                     5 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-YAML                     3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Java                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Python                   18 hrs 21 mins      ███████████░░░░░░░░░░░░░░   44.42 % 
+Markdown                 11 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+YAML                     3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Image (svg)              2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Java                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🔥 Editors: 
-VS Code                  37 hrs 44 mins      █████████████████░░░░░░░░   69.64 % 
-PyCharm                  11 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-IntelliJ IDEA            4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  25 hrs 36 mins      ███████████████░░░░░░░░░░   61.98 % 
+PyCharm                  11 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+IntelliJ IDEA            4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       36 hrs 50 mins      █████████████████░░░░░░░░   67.98 % 
-Unknown Project          6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-timechodb                3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-tsfile_governance        2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-iotdb                    1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+timer-rest-service       32 hrs 16 mins      ████████████████████░░░░░   78.12 % 
+timechodb                2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+tsfile_governance        2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+iotdb                    1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Unknown Project          1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Mac                      54 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 34 mins (98.83%)
+⏱ AI Coding Time: 40 hrs 42 mins (98.51%)
 
-✍️ 20,297 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 16,484 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 1,586,558,114 Input Tokens, 5,113,261 Output Tokens
+🔤 1,278,300,673 Input Tokens, 4,059,884 Output Tokens
 
-💵 $6325.76 Estimated AI Cost This Week
+💵 $5189.48 Estimated AI Cost This Week
 
-🧠 242 AI Sessions, 1486 AI Prompts
+🧠 194 AI Sessions, 1164 AI Prompts
 
-GPT                      21,577 lines        █████████████████████████   99.34 % 
-Vscode-Wakatime          144 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      17,742 lines        █████████████████████████   99.19 % 
+Vscode-Wakatime          144 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 14,519 characters per prompt
+📚 Verbose Prompter — average 14,335 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.47% of changed lines were hand-edited
+🚀 High AI Trust — 1.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -134,6 +133,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 17:32:55 UTC
+ Last Updated on 08/08/2026 01:16:12 UTC
 <!--END_SECTION:waka-->
 
