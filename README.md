@@ -70,50 +70,50 @@ Sunday                   18034 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs 21 mins      ███████████░░░░░░░░░░░░░░   44.42 % 
-Markdown                 11 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-YAML                     3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Image (svg)              2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Java                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Python                   18 hrs 4 mins       ███████████░░░░░░░░░░░░░░   44.83 % 
+Markdown                 10 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+YAML                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Image (svg)              2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Java                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 36 mins      ███████████████░░░░░░░░░░   61.98 % 
-PyCharm                  11 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-IntelliJ IDEA            4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+VS Code                  24 hrs 57 mins      ███████████████░░░░░░░░░░   61.88 % 
+PyCharm                  11 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+IntelliJ IDEA            4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       32 hrs 16 mins      ████████████████████░░░░░   78.12 % 
-timechodb                2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-tsfile_governance        2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-iotdb                    1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Unknown Project          1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+timer-rest-service       31 hrs 17 mins      ███████████████████░░░░░░   77.58 % 
+timechodb                2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+tsfile_governance        2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+iotdb                    1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Unknown Project          1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 💻 Operating System: 
-Mac                      41 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 42 mins (98.51%)
+⏱ AI Coding Time: 39 hrs 43 mins (98.47%)
 
-✍️ 16,484 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 15,576 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 1,278,300,673 Input Tokens, 4,059,884 Output Tokens
+🔤 1,226,600,896 Input Tokens, 3,902,894 Output Tokens
 
-💵 $5189.48 Estimated AI Cost This Week
+💵 $4950.52 Estimated AI Cost This Week
 
-🧠 194 AI Sessions, 1164 AI Prompts
+🧠 190 AI Sessions, 1142 AI Prompts
 
-GPT                      17,742 lines        █████████████████████████   99.19 % 
-Vscode-Wakatime          144 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+GPT                      16,835 lines        █████████████████████████   99.16 % 
+Vscode-Wakatime          143 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 14,335 characters per prompt
+📚 Verbose Prompter — average 14,166 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.78% of changed lines were hand-edited
+🚀 High AI Trust — 1.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -133,6 +133,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 17:22:13 UTC
+ Last Updated on 09/08/2026 09:30:29 UTC
 <!--END_SECTION:waka-->
 
