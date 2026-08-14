@@ -27,9 +27,9 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-575%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.14%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,21 +46,21 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                68517 commits       ████████░░░░░░░░░░░░░░░░░   30.29 % 
-🌆 Daytime                76842 commits       ████████░░░░░░░░░░░░░░░░░   33.97 % 
-🌃 Evening                72214 commits       ████████░░░░░░░░░░░░░░░░░   31.92 % 
-🌙 Night                  8656 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+🌞 Morning                68477 commits       ████████░░░░░░░░░░░░░░░░░   30.28 % 
+🌆 Daytime                76809 commits       ████████░░░░░░░░░░░░░░░░░   33.97 % 
+🌃 Evening                72188 commits       ████████░░░░░░░░░░░░░░░░░   31.92 % 
+🌙 Night                  8654 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   32139 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Tuesday                  41712 commits       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Wednesday                39024 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Thursday                 39916 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Friday                   43780 commits       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Saturday                 11617 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Sunday                   18041 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Monday                   32131 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Tuesday                  41691 commits       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Wednesday                39000 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Thursday                 39901 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Friday                   43759 commits       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Saturday                 11613 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Sunday                   18033 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 ```
 
 
@@ -119,11 +119,11 @@ Codex-Vscode             1,454 lines         ██░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            █████████░░░░░░░░░░░░░░░░   34.55 % 
-C++                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python                   20 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
+C++                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
@@ -133,6 +133,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 01:34:15 UTC
+ Last Updated on 14/08/2026 10:01:12 UTC
 <!--END_SECTION:waka-->
 
