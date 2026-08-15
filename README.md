@@ -70,49 +70,49 @@ Sunday                   18033 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   37.34 % 
-Markdown                 10 hrs 42 mins      ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-JavaScript               3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-YAML                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Image (svg)              2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Python                   15 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
+Markdown                 8 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+JavaScript               3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+YAML                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+TOML                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 🔥 Editors: 
-Codex Vscode             22 hrs 4 mins       █████████████░░░░░░░░░░░░   52.87 % 
-VS Code                  15 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.10 % 
-PyCharm                  2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-IntelliJ IDEA            1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Codex Vscode             22 hrs 4 mins       ███████████████░░░░░░░░░░   58.79 % 
+VS Code                  10 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+PyCharm                  2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+IntelliJ IDEA            1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       34 hrs 29 mins      █████████████████████░░░░   82.62 % 
-Unknown Project          4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-iotdb                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-ci-machines              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-timechodb                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+timer-rest-service       33 hrs 20 mins      ██████████████████████░░░   88.79 % 
+Unknown Project          2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+iotdb                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+ci-machines              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+timechodb                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 💻 Operating System: 
-Mac                      41 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 18 mins (98.93%)
+⏱ AI Coding Time: 37 hrs 5 mins (98.81%)
 
-✍️ 22,483 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 22,068 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 416,954,393 Input Tokens, 7,370,468 Output Tokens
+🔤 271,934,950 Input Tokens, 6,946,028 Output Tokens
 
-💵 $1901.48 Estimated AI Cost This Week
+💵 $1435.14 Estimated AI Cost This Week
 
-🧠 100 AI Sessions, 282 AI Prompts
+🧠 78 AI Sessions, 147 AI Prompts
 
-GPT                      22,304 lines        ███████████████████████░░   93.88 % 
-Codex-Vscode             1,454 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+GPT                      21,875 lines        ███████████████████████░░   93.77 % 
+Codex-Vscode             1,454 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 10,356 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 9,649 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
@@ -133,6 +133,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 17:48:55 UTC
+ Last Updated on 15/08/2026 01:33:17 UTC
 <!--END_SECTION:waka-->
 
