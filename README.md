@@ -23,9 +23,9 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C226%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C237%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-587%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-599%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -33,7 +33,7 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 **🐱 My GitHub Data** 
 
-> 📦 328.1 kB Used in GitHub's Storage 
+> 📦 328.2 kB Used in GitHub's Storage 
  > 
 > 🏆 325 Contributions in the Year 2026
  > 
@@ -70,50 +70,50 @@ Sunday                   18123 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 20 mins      ████████████░░░░░░░░░░░░░   48.23 % 
-Markdown                 7 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-YAML                     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Gettext Catalog          1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-TOML                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   19 hrs 48 mins      █████████████░░░░░░░░░░░░   50.01 % 
+Markdown                 10 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+Image (svg)              2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Gettext Catalog          1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Other                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-Codex Vscode             28 hrs 26 mins      █████████████████████░░░░   83.96 % 
-PyCharm                  3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-IntelliJ IDEA            2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Codex Vscode             33 hrs 21 mins      █████████████████████░░░░   84.23 % 
+PyCharm                  4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+IntelliJ IDEA            2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       31 hrs 3 mins       ███████████████████████░░   91.71 % 
-iotdb                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-timechodb                40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-ci-machines              32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+timer-rest-service       36 hrs 54 mins      ███████████████████████░░   93.18 % 
+iotdb                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+timechodb                31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+ci-machines              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+unitree-timecho-metting  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      33 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 10 mins (97.92%)
+⏱ AI Coding Time: 39 hrs 7 mins (98.79%)
 
-✍️ 15,328 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 16,807 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 185,510,126 Input Tokens, 5,525,724 Output Tokens
+🔤 323,612,924 Input Tokens, 6,800,384 Output Tokens
 
-💵 $1109.95 Estimated AI Cost This Week
+💵 $1470.01 Estimated AI Cost This Week
 
-🧠 65 AI Sessions, 114 AI Prompts
+🧠 62 AI Sessions, 121 AI Prompts
 
-GPT                      15,735 lines        ██████████████████████░░░   89.83 % 
-Codex-Vscode             1,781 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+GPT                      17,403 lines        ███████████████████████░░   92.06 % 
+Codex-Vscode             1,500 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 7,159 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 6,294 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -133,6 +133,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 17:33:10 UTC
+ Last Updated on 19/08/2026 01:29:52 UTC
 <!--END_SECTION:waka-->
 
