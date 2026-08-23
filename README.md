@@ -23,7 +23,7 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C253%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C253%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-618%20hrs%2040%20mins-blue?style=flat)
 
@@ -70,34 +70,34 @@ Sunday                   18189 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   36.11 % 
-Markdown                 13 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-Image (svg)              7 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Other                    4 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Python                   18 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   36.18 % 
+Markdown                 13 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Image (svg)              7 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Other                    4 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 Java                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🔥 Editors: 
-Codex Vscode             42 hrs 47 mins      █████████████████████░░░░   83.36 % 
-PyCharm                  6 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Codex Vscode             42 hrs 47 mins      █████████████████████░░░░   83.27 % 
+PyCharm                  6 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 IntelliJ IDEA            1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 Codex Exec               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       41 hrs 37 mins      ████████████████████░░░░░   81.06 % 
-timechodb                4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+timer-rest-service       41 hrs 40 mins      ████████████████████░░░░░   81.09 % 
+timechodb                4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 ci-machines              2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 tsfile_governance        1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 Unknown Project          37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Mac                      51 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      51 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 hrs 14 mins (97.85%)
+⏱ AI Coding Time: 50 hrs 14 mins (97.74%)
 
 ✍️ 19,124 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -134,6 +134,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 17:02:49 UTC
+ Last Updated on 23/08/2026 09:15:52 UTC
 <!--END_SECTION:waka-->
 
