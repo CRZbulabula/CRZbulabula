@@ -33,7 +33,7 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 **🐱 My GitHub Data** 
 
-> 📦 329.0 kB Used in GitHub's Storage 
+> 📦 328.9 kB Used in GitHub's Storage 
  > 
 > 🏆 349 Contributions in the Year 2026
  > 
@@ -70,49 +70,49 @@ Sunday                   17979 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 16 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   35.37 % 
-Python                   16 hrs              █████████░░░░░░░░░░░░░░░░   34.38 % 
-YAML                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-JSON                     2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Java                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Markdown                 16 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   35.16 % 
+Python                   16 hrs              █████████░░░░░░░░░░░░░░░░   34.48 % 
+YAML                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+JSON                     2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Java                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-Codex Vscode             31 hrs 9 mins       █████████████████░░░░░░░░   66.91 % 
-IntelliJ IDEA            7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-VS Code                  5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-PyCharm                  2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Codex Vscode             31 hrs              █████████████████░░░░░░░░   66.82 % 
+IntelliJ IDEA            7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+VS Code                  5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+PyCharm                  2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       31 hrs 33 mins      █████████████████░░░░░░░░   67.79 % 
-tsfile_governance        4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-TimerLathe               3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-timechodb                2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-iotdb                    1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+timer-rest-service       31 hrs 26 mins      █████████████████░░░░░░░░   67.75 % 
+tsfile_governance        4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+TimerLathe               3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+timechodb                2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+iotdb                    1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 💻 Operating System: 
-Mac                      46 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      46 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs 21 mins (99.54%)
+⏱ AI Coding Time: 46 hrs 11 mins (99.54%)
 
-✍️ 13,692 lines written by AI, 28 lines written by hand (99.8% AI-written)
+✍️ 13,668 lines written by AI, 28 lines written by hand (99.8% AI-written)
 
-🔤 100,995,254 Input Tokens, 5,164,527 Output Tokens
+🔤 100,536,938 Input Tokens, 5,135,970 Output Tokens
 
-💵 $2627.61 Estimated AI Cost This Week
+💵 $2623.50 Estimated AI Cost This Week
 
-🧠 107 AI Sessions, 205 AI Prompts
+🧠 103 AI Sessions, 202 AI Prompts
 
-GPT                      11,017 lines        ██████████████████░░░░░░░   73.90 % 
-Deepseek                 3,509 lines         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Codex-Vscode             382 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+GPT                      10,993 lines        ██████████████████░░░░░░░   73.86 % 
+Deepseek                 3,509 lines         ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Codex-Vscode             382 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 2,542 characters per prompt
+📚 Verbose Prompter — average 2,493 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
@@ -134,6 +134,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 18:35:42 UTC
+ Last Updated on 07/09/2026 02:05:42 UTC
 <!--END_SECTION:waka-->
 
