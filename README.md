@@ -29,7 +29,7 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,21 +46,21 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                65063 commits       ████████░░░░░░░░░░░░░░░░░   30.29 % 
-🌆 Daytime                72810 commits       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-🌃 Evening                68637 commits       ████████░░░░░░░░░░░░░░░░░   31.95 % 
-🌙 Night                  8297 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+🌞 Morning                64944 commits       ████████░░░░░░░░░░░░░░░░░   30.29 % 
+🌆 Daytime                72647 commits       ████████░░░░░░░░░░░░░░░░░   33.89 % 
+🌃 Evening                68499 commits       ████████░░░░░░░░░░░░░░░░░   31.95 % 
+🌙 Night                  8283 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   30704 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday                  39358 commits       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Wednesday                37072 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Thursday                 37806 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Friday                   41714 commits       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Saturday                 11006 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Sunday                   17147 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Monday                   30645 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Tuesday                  39273 commits       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Wednesday                36996 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Thursday                 37736 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Friday                   41631 commits       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Saturday                 10982 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Sunday                   17110 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 ```
 
 
@@ -134,6 +134,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 02:40:23 UTC
+ Last Updated on 14/09/2026 15:50:46 UTC
 <!--END_SECTION:waka-->
 
