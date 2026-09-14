@@ -70,50 +70,50 @@ Sunday                   17110 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 32 mins      ███████████░░░░░░░░░░░░░░   43.66 % 
-Markdown                 8 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Other                    3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Bash                     2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-JSON                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Python                   11 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   41.55 % 
+Markdown                 5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Other                    2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Bash                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Go                       1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-Codex Vscode             25 hrs 39 mins      █████████████████░░░░░░░░   67.73 % 
-PyCharm                  7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-VS Code                  3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-IntelliJ IDEA            2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Codex Vscode             17 hrs 30 mins      ████████████████░░░░░░░░░   64.81 % 
+PyCharm                  5 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+VS Code                  2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+IntelliJ IDEA            1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       17 hrs 58 mins      ████████████░░░░░░░░░░░░░   47.46 % 
-tsfile_governance        12 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   32.07 % 
-iotdb                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-timecho-cli              1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-timechodb                1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+timer-rest-service       13 hrs 55 mins      █████████████░░░░░░░░░░░░   51.58 % 
+tsfile_governance        5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+iotdb                    2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+timecho-cli              1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+ci-machines              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-Mac                      37 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 51 mins (99.96%)
+⏱ AI Coding Time: 26 hrs 59 mins (99.95%)
 
-✍️ 9,294 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,308 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 166,421,190 Input Tokens, 5,233,667 Output Tokens
+🔤 138,272,991 Input Tokens, 3,770,190 Output Tokens
 
-💵 $2076.00 Estimated AI Cost This Week
+💵 $1506.66 Estimated AI Cost This Week
 
-🧠 163 AI Sessions, 561 AI Prompts
+🧠 137 AI Sessions, 516 AI Prompts
 
-GPT                      8,977 lines         ████████████████████████░   95.70 % 
-Codex-Vscode             358 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Deepseek                 45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+GPT                      7,106 lines         ████████████████████████░   96.85 % 
+Codex-Vscode             231 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 18,027 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 19,243 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -134,6 +134,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 15:50:46 UTC
+ Last Updated on 14/09/2026 21:10:44 UTC
 <!--END_SECTION:waka-->
 
