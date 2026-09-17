@@ -23,13 +23,13 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 ## 📈 Metrics Data
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-720%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-721%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.78%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.41%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,21 +46,21 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                65451 commits       ████████░░░░░░░░░░░░░░░░░   30.28 % 
-🌆 Daytime                73314 commits       ████████░░░░░░░░░░░░░░░░░   33.92 % 
-🌃 Evening                69036 commits       ████████░░░░░░░░░░░░░░░░░   31.94 % 
-🌙 Night                  8347 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+🌞 Morning                65207 commits       ████████░░░░░░░░░░░░░░░░░   30.29 % 
+🌆 Daytime                72998 commits       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+🌃 Evening                68778 commits       ████████░░░░░░░░░░░░░░░░░   31.94 % 
+🌙 Night                  8319 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   30872 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Tuesday                  39629 commits       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Wednesday                37322 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Thursday                 38026 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Friday                   41974 commits       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Saturday                 11082 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Sunday                   17243 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Monday                   30764 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Tuesday                  39459 commits       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Wednesday                37168 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Thursday                 37884 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Friday                   41814 commits       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Saturday                 11034 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Sunday                   17179 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 ```
 
 
@@ -70,50 +70,50 @@ Sunday                   17243 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   31.33 % 
-Markdown                 13 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-Other                    5 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Bash                     5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Markdown                 12 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   30.90 % 
+Python                   12 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
+Other                    4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Bash                     3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Java                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-Codex Vscode             24 hrs 24 mins      ████████████░░░░░░░░░░░░░   49.03 % 
-IntelliJ IDEA            10 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-PyCharm                  8 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-VS Code                  6 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Codex Vscode             20 hrs 47 mins      █████████████░░░░░░░░░░░░   52.28 % 
+IntelliJ IDEA            10 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+VS Code                  5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+PyCharm                  3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       19 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   39.88 % 
-tsfile_governance        8 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-timechodb                5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-iotdb                    4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Unknown Project          3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+timer-rest-service       13 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   33.27 % 
+timechodb                6 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+tsfile_governance        6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+iotdb                    3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Unknown Project          3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 
 💻 Operating System: 
-Mac                      49 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 hrs 45 mins (99.92%)
+⏱ AI Coding Time: 39 hrs 44 mins (99.9%)
 
-✍️ 42,183 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 40,458 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 189,023,184 Input Tokens, 7,648,453 Output Tokens
+🔤 101,288,727 Input Tokens, 5,288,492 Output Tokens
 
-💵 $2840.31 Estimated AI Cost This Week
+💵 $1961.80 Estimated AI Cost This Week
 
-🧠 189 AI Sessions, 651 AI Prompts
+🧠 111 AI Sessions, 231 AI Prompts
 
-Deepseek                 10,286 lines        █████████████░░░░░░░░░░░░   53.75 % 
-GPT                      8,444 lines         ███████████░░░░░░░░░░░░░░   44.12 % 
-Codex-Vscode             408 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Deepseek                 10,286 lines        ███████████████░░░░░░░░░░   59.09 % 
+GPT                      6,944 lines         ██████████░░░░░░░░░░░░░░░   39.89 % 
+Codex-Vscode             177 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 15,722 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 2,016 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -134,6 +134,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 20:26:36 UTC
+ Last Updated on 17/09/2026 03:00:52 UTC
 <!--END_SECTION:waka-->
 
