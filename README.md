@@ -33,7 +33,7 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 **🐱 My GitHub Data** 
 
-> 📦 329.9 kB Used in GitHub's Storage 
+> 📦 329.8 kB Used in GitHub's Storage 
  > 
 > 🏆 365 Contributions in the Year 2026
  > 
@@ -70,50 +70,50 @@ Sunday                   17280 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Java                     4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Markdown                 4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Python                   3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Other                    4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+Java                     4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+Python                   3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-Codex Vscode             15 hrs 11 mins      ██████████████████░░░░░░░   71.06 % 
-IntelliJ IDEA            4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-PyCharm                  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Codex Vscode             13 hrs 21 mins      ████████████████████░░░░░   80.67 % 
+IntelliJ IDEA            1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+PyCharm                  1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       6 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
-timechodb                4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-iotdb                    3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-tsfile_governance        1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Unknown Project          1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+timer-rest-service       5 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.64 % 
+timechodb                3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+iotdb                    3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+tsfile_governance        1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+ci-machines              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 💻 Operating System: 
-Mac                      21 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 21 mins (99.96%)
+⏱ AI Coding Time: 16 hrs 33 mins (99.95%)
 
-✍️ 6,860 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,662 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 59,348,249 Input Tokens, 1,746,355 Output Tokens
+🔤 47,518,074 Input Tokens, 1,094,468 Output Tokens
 
-💵 $701.20 Estimated AI Cost This Week
+💵 $540.54 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 95 AI Prompts
+🧠 46 AI Sessions, 65 AI Prompts
 
-GPT                      2,787 lines         ████████████████████████░   97.14 % 
-Codex-Vscode             82 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+GPT                      2,626 lines         ████████████████████████░   96.97 % 
+Codex-Vscode             82 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,089 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+📚 Verbose Prompter — average 4,235 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -133,6 +133,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 19:23:24 UTC
+ Last Updated on 21/09/2026 02:53:56 UTC
 <!--END_SECTION:waka-->
 
