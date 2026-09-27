@@ -70,48 +70,48 @@ Sunday                   17127 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.42 % 
-Other                    4 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.72 % 
-Markdown                 2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Python                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Java                     4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.63 % 
+Other                    4 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.72 % 
+Markdown                 2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Python                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 36 mins      ██████████████████████░░░   86.58 % 
-VS Code                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-PyCharm                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-IntelliJ IDEA            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Codex Vscode             11 hrs 31 mins      ██████████████████████░░░   86.50 % 
+VS Code                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+PyCharm                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+IntelliJ IDEA            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🐱‍💻 Projects: 
-iotdb                    4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
-timer-rest-service       3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-timechodb                2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-tsfile_governance        1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-ci-machines              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+iotdb                    4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+timer-rest-service       2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+timechodb                2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+tsfile_governance        1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+ci-machines              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 💻 Operating System: 
-Mac                      13 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 30 mins (93.3%)
+⏱ AI Coding Time: 12 hrs 25 mins (93.26%)
 
-✍️ 3,548 lines written by AI, 3 lines written by hand (99.92% AI-written)
+✍️ 3,519 lines written by AI, 3 lines written by hand (99.91% AI-written)
 
-🔤 46,377,898 Input Tokens, 1,729,575 Output Tokens
+🔤 45,846,510 Input Tokens, 1,702,564 Output Tokens
 
-💵 $764.80 Estimated AI Cost This Week
+💵 $760.60 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 61 AI Prompts
+🧠 40 AI Sessions, 58 AI Prompts
 
-GPT                      3,903 lines         █████████████████████████   100.00 % 
+GPT                      3,874 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 4,605 characters per prompt
+🤖 AI-Driven — 99.91% of written lines came from AI
+📚 Verbose Prompter — average 4,514 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
@@ -133,6 +133,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 14:22:01 UTC
+ Last Updated on 27/09/2026 20:28:32 UTC
 <!--END_SECTION:waka-->
 
