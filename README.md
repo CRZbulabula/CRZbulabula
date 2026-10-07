@@ -70,48 +70,22 @@ Sunday                   17239 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Image (svg)              34 mins             █████████░░░░░░░░░░░░░░░░   36.54 % 
-Python                   29 mins             ████████░░░░░░░░░░░░░░░░░   31.36 % 
-XML                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Java                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 11 mins        ███████████████████░░░░░░   75.55 % 
-IntelliJ IDEA            23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-timer-saas               49 mins             █████████████░░░░░░░░░░░░   52.57 % 
-timer-rest-service       31 mins             ████████░░░░░░░░░░░░░░░░░   33.50 % 
-ci-machines              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-iotdb                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-timechodb                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (98.63%)
-
-✍️ 244 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,328,260 Input Tokens, 102,579 Output Tokens
-
-💵 $46.48 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 12 AI Prompts
-
-GPT                      246 lines           █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,656 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -131,6 +105,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 15:53:13 UTC
+ Last Updated on 07/10/2026 22:01:06 UTC
 <!--END_SECTION:waka-->
 
