@@ -70,22 +70,49 @@ Sunday                   17212 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Image (svg)              1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+Other                    1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Python                   59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+XML                      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Java                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             3 hrs 49 mins       ████████████████░░░░░░░░░   63.12 % 
+VS Code                  2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+timer-rest-service       3 hrs 39 mins       ███████████████░░░░░░░░░░   60.23 % 
+tsfile_governance        1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+iotdb                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+timechodb                22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+timer-saas               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs 4 mins (100.0%)
+
+✍️ 2,085 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 11,050,458 Input Tokens, 841,332 Output Tokens
+
+💵 $196.09 Estimated AI Cost This Week
+
+🧠 34 AI Sessions, 39 AI Prompts
+
+GPT                      2,088 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 5,648 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,6 +132,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 16:13:48 UTC
+ Last Updated on 08/10/2026 22:00:22 UTC
 <!--END_SECTION:waka-->
 
