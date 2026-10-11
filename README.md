@@ -70,47 +70,47 @@ Sunday                   17245 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-Python                   2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Markdown                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Image (svg)              1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Markdown                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Other                    1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Python                   1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Image (svg)              1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+XML                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 20 mins       ██████████████░░░░░░░░░░░   57.53 % 
-VS Code                  5 hrs 23 mins       ███████████░░░░░░░░░░░░░░   42.25 % 
-IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Codex Vscode             6 hrs 17 mins       ████████████████░░░░░░░░░   65.28 % 
+VS Code                  3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-timer-rest-service       6 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.43 % 
-timechodb                3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-tsfile_governance        1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-iotdb                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-gpt-key-router           20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+timer-rest-service       4 hrs 41 mins       ████████████░░░░░░░░░░░░░   48.78 % 
+timechodb                1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+tsfile_governance        1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+iotdb                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+weekly-research          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 💻 Operating System: 
-Mac                      12 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 45 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 37 mins (100.0%)
 
-✍️ 3,078 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,737 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 18,769,320 Input Tokens, 1,315,766 Output Tokens
+🔤 15,208,604 Input Tokens, 1,115,736 Output Tokens
 
-💵 $403.96 Estimated AI Cost This Week
+💵 $313.09 Estimated AI Cost This Week
 
-🧠 90 AI Sessions, 93 AI Prompts
+🧠 69 AI Sessions, 74 AI Prompts
 
-GPT                      3,096 lines         █████████████████████████   100.00 % 
+GPT                      2,755 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,378 characters per prompt
+📚 Verbose Prompter — average 3,900 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -132,6 +132,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 15:29:46 UTC
+ Last Updated on 11/10/2026 20:34:04 UTC
 <!--END_SECTION:waka-->
 
