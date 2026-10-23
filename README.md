@@ -43,78 +43,6 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                65933 commits       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-🌆 Daytime                74025 commits       ████████░░░░░░░░░░░░░░░░░   33.96 % 
-🌃 Evening                69592 commits       ████████░░░░░░░░░░░░░░░░░   31.92 % 
-🌙 Night                  8446 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   31047 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Tuesday                  40017 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Wednesday                37684 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Thursday                 38299 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Friday                   42426 commits       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Saturday                 11183 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Sunday                   17340 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   17 hrs 9 mins       ██████████████░░░░░░░░░░░   54.78 % 
-Markdown                 6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-Other                    5 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-JSON                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-🔥 Editors: 
-PyCharm                  19 hrs 35 mins      ████████████████░░░░░░░░░   62.49 % 
-Pycharm                  9 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.87 % 
-Codex Vscode             1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-
-🐱‍💻 Projects: 
-timer-rest-service       10 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   33.68 % 
-TimerLathe               9 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.16 % 
-etf-rv-01a15467-d183-726335 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-timechodb                33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-etf-rv-01a15467-d183-726323 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-
-💻 Operating System: 
-Mac                      31 hrs 20 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 31 hrs 19 mins (99.99%)
-
-✍️ 52,880 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 183,138,149 Input Tokens, 11,890,387 Output Tokens
-
-💵 $4816.05 Estimated AI Cost This Week
-
-🧠 587 AI Sessions, 641 AI Prompts
-
-GPT                      53,260 lines        █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,241 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -132,6 +60,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 13:57:07 UTC
+ Last Updated on 23/10/2026 20:38:56 UTC
 <!--END_SECTION:waka-->
 
