@@ -29,7 +29,7 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.63%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,21 +46,21 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                65687 commits       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-🌆 Daytime                73702 commits       ████████░░░░░░░░░░░░░░░░░   33.94 % 
-🌃 Evening                69332 commits       ████████░░░░░░░░░░░░░░░░░   31.93 % 
-🌙 Night                  8418 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+🌞 Morning                65827 commits       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+🌆 Daytime                73893 commits       ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌃 Evening                69477 commits       ████████░░░░░░░░░░░░░░░░░   31.92 % 
+🌙 Night                  8436 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   30937 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Tuesday                  39847 commits       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Wednesday                37528 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Thursday                 38152 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Friday                   42264 commits       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Saturday                 11135 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Sunday                   17276 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Monday                   31002 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Tuesday                  39947 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Wednesday                37624 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Thursday                 38229 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Friday                   42358 commits       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Saturday                 11161 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Sunday                   17312 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 ```
 
 
@@ -70,45 +70,45 @@ Sunday                   17276 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   41 hrs 19 mins      ████████████████░░░░░░░░░   62.82 % 
-Markdown                 10 hrs 55 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Other                    9 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-JSON                     3 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python                   31 hrs 21 mins      ███████████████░░░░░░░░░░   61.61 % 
+Markdown                 8 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Other                    7 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+JSON                     3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-PyCharm                  37 hrs 36 mins      ██████████████░░░░░░░░░░░   57.19 % 
-Pycharm                  28 hrs 9 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
+PyCharm                  26 hrs 55 mins      █████████████░░░░░░░░░░░░   52.90 % 
+Pycharm                  23 hrs 58 mins      ████████████░░░░░░░░░░░░░   47.10 % 
 
 🐱‍💻 Projects: 
-TimerLathe               32 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.37 % 
-timer-rest-service       17 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-timechodb                1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-iotdb                    1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-etf-rv-01a15467-d183-726335 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+TimerLathe               22 hrs 21 mins      ███████████░░░░░░░░░░░░░░   43.93 % 
+timer-rest-service       14 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+timechodb                1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+iotdb                    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+etf-rv-01a15467-d183-726335 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Mac                      65 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      50 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 65 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 50 hrs 54 mins (100.0%)
 
-✍️ 116,897 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 90,085 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 306,603,521 Input Tokens, 21,900,435 Output Tokens
+🔤 249,053,622 Input Tokens, 17,573,330 Output Tokens
 
-💵 $8430.35 Estimated AI Cost This Week
+💵 $6843.00 Estimated AI Cost This Week
 
-🧠 856 AI Sessions, 961 AI Prompts
+🧠 712 AI Sessions, 801 AI Prompts
 
-GPT                      117,276 lines       █████████████████████████   100.00 % 
+GPT                      90,381 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,012 characters per prompt
+📚 Verbose Prompter — average 4,833 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -130,6 +130,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 02:33:49 UTC
+ Last Updated on 26/10/2026 21:49:07 UTC
 <!--END_SECTION:waka-->
 
