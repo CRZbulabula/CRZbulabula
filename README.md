@@ -70,45 +70,45 @@ Sunday                   17567 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs 25 mins      █████████████████░░░░░░░░   66.40 % 
-Other                    4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Markdown                 3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   9 hrs 47 mins       ████████████████████░░░░░   78.67 % 
+Markdown                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-PyCharm                  18 hrs 5 mins       ████████████████░░░░░░░░░   65.16 % 
-Pycharm                  9 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.84 % 
+Pycharm                  8 hrs 32 mins       █████████████████░░░░░░░░   68.66 % 
+PyCharm                  3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.34 % 
 
 🐱‍💻 Projects: 
-TimerLathe               12 hrs 53 mins      ████████████░░░░░░░░░░░░░   46.47 % 
-timer-rest-service       10 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   36.78 % 
-timechodb                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-30-etf-bug-etf-threadid-013 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-30-etf-bug-etf-threadid-013 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+timer-rest-service       6 hrs 33 mins       █████████████░░░░░░░░░░░░   52.66 % 
+TimerLathe               5 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.78 % 
+timechodb                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+tsfile_governance        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+ci-machines              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Mac                      27 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 45 mins (100.0%)
+⏱ AI Coding Time: 12 hrs 26 mins (100.0%)
 
-✍️ 44,388 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 24,679 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 165,454,852 Input Tokens, 10,453,891 Output Tokens
+🔤 69,940,339 Input Tokens, 4,719,544 Output Tokens
 
-💵 $4560.79 Estimated AI Cost This Week
+💵 $2054.69 Estimated AI Cost This Week
 
-🧠 368 AI Sessions, 455 AI Prompts
+🧠 166 AI Sessions, 219 AI Prompts
 
-GPT                      44,910 lines        █████████████████████████   100.00 % 
+GPT                      25,151 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,998 characters per prompt
+📚 Verbose Prompter — average 5,022 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -130,6 +130,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 15:44:15 UTC
+ Last Updated on 28/10/2026 21:31:21 UTC
 <!--END_SECTION:waka-->
 
