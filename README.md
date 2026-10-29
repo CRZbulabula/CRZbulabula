@@ -33,7 +33,7 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 **🐱 My GitHub Data** 
 
-> 📦 331.6 kB Used in GitHub's Storage 
+> 📦 331.7 kB Used in GitHub's Storage 
  > 
 > 🏆 414 Contributions in the Year 2026
  > 
@@ -70,47 +70,22 @@ Sunday                   17665 commits       ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 47 mins       ████████████████████░░░░░   78.67 % 
-Markdown                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Pycharm                  8 hrs 32 mins       █████████████████░░░░░░░░   68.66 % 
-PyCharm                  3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.34 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-timer-rest-service       6 hrs 33 mins       █████████████░░░░░░░░░░░░   52.66 % 
-TimerLathe               5 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.78 % 
-timechodb                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-tsfile_governance        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-ci-machines              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      12 hrs 26 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 26 mins (100.0%)
-
-✍️ 24,679 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 69,940,339 Input Tokens, 4,719,544 Output Tokens
-
-💵 $2054.69 Estimated AI Cost This Week
-
-🧠 166 AI Sessions, 219 AI Prompts
-
-GPT                      25,151 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,022 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -130,6 +105,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRZbulabula/CRZbulabula/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 15:44:31 UTC
+ Last Updated on 29/10/2026 21:41:07 UTC
 <!--END_SECTION:waka-->
 
