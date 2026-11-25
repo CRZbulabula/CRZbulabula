@@ -7,11 +7,11 @@ Welcome to email me to discuss the related issues :) -- yongzao@apache.org
 
 ## ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1801](https://github.com/alibaba/DataX/pull/1801) in [alibaba/DataX](https://github.com/alibaba/DataX)
-2. 💪 Opened PR [#19154](https://github.com/apache/iotdb/pull/19154) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🎉 Merged PR [#19153](https://github.com/apache/iotdb/pull/19153) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 💪 Opened PR [#19153](https://github.com/apache/iotdb/pull/19153) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🎉 Merged PR [#18981](https://github.com/apache/iotdb/pull/18981) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 💪 Opened PR [#1145](https://github.com/apache/tsfile/pull/1145) in [apache/tsfile](https://github.com/apache/tsfile)
+2. 💪 Opened PR [#19405](https://github.com/apache/iotdb/pull/19405) in [apache/iotdb](https://github.com/apache/iotdb)
+3. 🗣 Commented on [#19273](https://github.com/apache/iotdb/pull/19273#issuecomment-7152200316) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🗣 Commented on [#19272](https://github.com/apache/iotdb/pull/19272#issuecomment-7152196640) in [apache/iotdb](https://github.com/apache/iotdb)
+5. ❌ Closed PR [#1801](https://github.com/alibaba/DataX/pull/1801) in [alibaba/DataX](https://github.com/alibaba/DataX)
 <!--END_SECTION:activity-->
 
 ## 🎑 Summary Cards
